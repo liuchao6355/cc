@@ -9,3 +9,7 @@
 ### Linux命令
 
 https://cloud.tencent.com/developer/article/1540697
+
+### linux
+
+[菜鸟](https://www.runoob.com/linux/linux-filesystem.html)
