@@ -18,3 +18,7 @@ https://cloud.tencent.com/developer/article/1540697
 ### Makefile
 
 https://www.bilibili.com/video/BV188411L7d2/?spm_id_from=333.788.recommend_more_video.-1&vd_source=322cc8f98b9da968d3a1e7062614e61a
+
+### CMake
+
+https://www.bilibili.com/video/BV1vR4y1u77h/?spm_id_from=333.337.search-card.all.click&vd_source=322cc8f98b9da968d3a1e7062614e61a
