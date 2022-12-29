@@ -29,4 +29,6 @@ https://www.bilibili.com/video/BV1Gv411N7KN/?spm_id_from=333.999.0.0&vd_source=3
 
 ### C++网络编程
 
+https://www.bilibili.com/video/BV11Z4y157RY/?spm_id_from=333.337.search-card.all.click&vd_source=322cc8f98b9da968d3a1e7062614e61a
+
 ### C++并发编程
